@@ -1,1 +1,1 @@
-vless://1e92021d-fe64-4b9b-b1fa-96caf030ed12@5.8.18.30:443?path=%2F&security=tls&encryption=none&host=honda.getyourcar.store&type=ws&sni=honda.getyourcar.store#Rus
+vless://1e92021d-fe64-4b9b-b1fa-96caf030ed12@5.8.18.30:443?path=%2F&security=tls&encryption=none&host=honda.getyourcar.store&type=ws&sni=honda.getyourcar.store#Fixer
